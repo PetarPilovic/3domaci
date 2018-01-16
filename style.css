@@ -1,0 +1,32 @@
+.naslov {
+    border: 3px solid rgb(185, 8, 8);
+    width: 100%; 
+    background: rgb(0, 0, 0);
+    color:rgb(185, 8, 8); 
+    font-size: 36px; 
+    text-align: center;
+    -webkit-text-stroke: 0.5px white; 
+}
+
+.navigacija {
+    color: rgb(185, 8, 8);
+    font-size: 18px;
+}
+
+h3 {
+    color: rgb(185, 8, 8); 
+}
+
+#movie {
+    color: rgb(185, 8, 8); 
+}
+
+#crew {
+    color: rgb(185, 8, 8); 
+}
+.image {
+    border: 5px solid white;
+    width: 32%; 
+    height: 250; 
+}
+ 
